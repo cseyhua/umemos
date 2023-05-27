@@ -1,0 +1,5 @@
+user: root
+password: cseyhua
+host: 172.29.96.63
+port: 3306
+database: memos
